@@ -7,6 +7,7 @@
 /imagenes/originales.zip
 /notebooks
 /prueba_frames
+/Modelos/MODELOS-20211226T144926Z-001.zip
 /videos
 
 area_set.py
@@ -15,10 +16,11 @@ derechos_ellipse.py
 derechos.py
 folder_tag.py
 indexator.py
-
 object_tracker.py
 prueba_video.py
-prueba_red.py
 prueba.py
 recortador_frames.py
 vacios.py
+name_area.py
+plotter.py
+regex.py
